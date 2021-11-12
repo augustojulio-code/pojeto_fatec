@@ -14,7 +14,7 @@ namespace Projeto_Gioia.br.com.projeto.con
         // Método para criar a conexão com o banco de dados
         public MySqlConnection GetConnection()
         {
-            string conexao = ConfigurationManager.ConnectionStrings["yourDataBase"].ConnectionString;
+            string conexao = ConfigurationManager.ConnectionStrings["dbfatec"].ConnectionString;
 
             return new MySqlConnection(conexao);
         }
