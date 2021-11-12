@@ -5,8 +5,8 @@
 ### This project is a very basic sales system, where the system has systems of product registration, customers and generation of sales reports by the forms interface, I hope to be able to help someone with this project, this project was fully elaborated in class.
 
 ### The language used were
-* C#
-* MySQL
+* #### C#
+* #### MySQL
 
 <h3>C# is not really my strong point but it's worth understanding a little!</h3>
 
