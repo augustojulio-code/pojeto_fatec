@@ -20,4 +20,4 @@
 </h3>
 
 
-<h1 align="left"> <img src="https://media4.giphy.com/media/mKSKHqHAF4V5maZuC7/giphy.gif?cid=ecf05e47fhap2j3ns1z0zjtgybvf9al3e23ft77vjhh9kla2&rid=giphy.gif&ct=s" width= 250></h1>
+<h1 align="left"> <img src="https://media4.giphy.com/media/mKSKHqHAF4V5maZuC7/giphy.gif?cid=ecf05e47fhap2j3ns1z0zjtgybvf9al3e23ft77vjhh9kla2&rid=giphy.gif&ct=s" width= 200></h1>
